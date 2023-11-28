@@ -1,0 +1,27 @@
+FACULTY1 will take Course : 
+CS214 LCS 
+FACULTY2 will take Course : 
+CS215 DD 
+FACULTY3 will take Course : 
+CS214 LCS CS213 OOP 
+FACULTY4 will take Course : 
+CS222 DISCO 
+
+FACULTY1 will take Course : 
+CS214 LCS 
+FACULTY2 will take Course : 
+CS222 DISCO CS215 DD 
+FACULTY3 will take Course : 
+CS214 LCS CS213 OOP 
+FACULTY4 will take Course : 
+CS222 DISCO CS215 DD 
+
+FACULTY1 will take Course : 
+CS214 LCS 
+FACULTY2 will take Course : 
+CS222 DISCO 
+FACULTY3 will take Course : 
+CS214 LCS CS213 OOP 
+FACULTY4 will take Course : 
+CS215 DD 
+
